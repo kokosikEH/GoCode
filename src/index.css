@@ -88,14 +88,14 @@ button:focus-visible {
   
 }
 
-  ::-webkit-scrollbar-track:hover {
-      background: linear-gradient(0deg, rgba(54, 39, 93, 0.6) 0%, rgba(0, 200, 192, 0.6) 100%);
+::-webkit-scrollbar-track:hover {
+  background: linear-gradient(0deg, rgba(54, 39, 93, 0.6) 0%, rgba(0, 200, 192, 0.6) 100%);
 
-  }
+}
 
 ::-webkit-scrollbar-thumb {
   background: transparent;
-  box-shadow: 0px 0px 0px 100000vh #0e0a18b7;
+  box-shadow: 0px 0px 0px 100000vh #0e0a18fd;
   border-radius: 5px;
 
 }
